@@ -39,6 +39,7 @@ def home():
             <h1>Hello, Flask Web Server!</h1>
             <p>Made by <strong>Bhavya Rawat</strong></p>
             <p>3 Assessments Done ✅</p>
+               <p>Some changes made here</p>
         </div>
     </body>
     </html>
